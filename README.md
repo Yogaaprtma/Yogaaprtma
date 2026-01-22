@@ -2,17 +2,17 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Backend+Developer;Software+Engineer;Building+Scalable+Applications)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Backend+Developer;Software+Engineer)
   
 </div>
 
 ## 🚀 About Me
 
-Saya adalah seorang Fullstack Web Developer yang passionate dalam membangun aplikasi web yang scalable dan user-friendly. Dengan latar belakang pendidikan S1 Teknik Informatika, saya memiliki pemahaman mendalam tentang arsitektur software dan best practices dalam pengembangan aplikasi modern.
+I'm a passionate Fullstack Web Developer dedicated to building scalable and user-friendly web applications. With a Bachelor's degree in Informatics Engineering, I have a deep understanding of software architecture and best practices in modern application development.
 
-Saya fokus pada pengembangan backend yang robust dan frontend yang responsif, selalu berusaha untuk menulis clean code dan mengikuti perkembangan teknologi terkini. Saya percaya bahwa kombinasi kreativitas dan technical skills adalah kunci untuk menciptakan solusi digital yang impactful.
+I focus on developing robust backends and responsive frontends, always striving to write clean code and stay current with the latest technology trends. I believe that the combination of creativity and technical skills is the key to creating impactful digital solutions.
 
-💼 **Saya terbuka untuk peluang kolaborasi dan proyek-proyek menarik!**
+💼 **I'm open to collaboration opportunities and exciting projects!**
 
 ## 💻 Tech Stack
 
@@ -56,23 +56,23 @@ Saya fokus pada pengembangan backend yang robust dan frontend yang responsif, se
 
 ## 🎯 What I'm Currently Working On
 
-- 🔭 Mengembangkan aplikasi web dengan teknologi terbaru
-- 🌱 Mempelajari DevOps dan Cloud Technologies
-- 👯 Terbuka untuk kolaborasi pada proyek open source
-- 💬 Diskusi tentang Web Development, Software Architecture, dan Best Practices
+- 🔭 Developing web applications with the latest technologies
+- 🌱 Learning DevOps and Cloud Technologies
+- 👯 Open to collaborate on open source projects
+- 💬 Discussion about Web Development, Software Architecture, and Best Practices
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoga-adi-pratama-1a63b6279/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogapratama010503@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yogaaprtamaa.my.id/)
 
 ---
 
 <div align="center">
   
-  ### ⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+  ### ⭐️ From [Yogaaprtma](https://github.com/Yogaaprtma)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Yogaaprtma&color=blue&style=flat-square)
   
 </div>
