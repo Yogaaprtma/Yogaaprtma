@@ -46,11 +46,11 @@ I focus on developing robust backends and responsive frontends, always striving 
 
 <div align="center">
   
-  ![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogaaprtma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yogaaprtma&theme=tokyonight&hide_border=true)
   
 </div>
 
