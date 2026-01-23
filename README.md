@@ -61,8 +61,6 @@ I focus on developing robust backends and responsive frontends, always striving 
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=compact&theme=tokyonight&hide_border=true)
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Yogaaprtma&theme=tokyonight&hide_border=true&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
-
 </div>
 
 ## 🎯 What I'm Currently Working On
