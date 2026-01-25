@@ -53,21 +53,21 @@ I focus on developing robust backends and responsive frontends, always striving 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogaaprtma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 💻 Most Used Languages
 
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogaaprtma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
