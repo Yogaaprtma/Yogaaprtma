@@ -63,7 +63,7 @@ I focus on developing robust backends and responsive frontends, always striving 
 ## 💻 Most Used Languages
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&theme=tokyonight&hide_border=true&langs_count=10&layout=compact&custom_title=Most%20Used%20Languages)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages&card_width=500)
 
 </div>
 
