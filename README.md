@@ -61,17 +61,17 @@ I focus on developing robust backends and responsive frontends, always striving 
 </div>
 
 ## 💻 Most Used Languages
+
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages&card_width=500)
+  ![Top Langs by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Top%20Languages%20by%20Repo)
+  ![Top Langs by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=donut&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Top%20Languages%20by%20Commit)
 
 </div>
 
 <div align="center">
 
-  ![Top Langs by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Top%20Languages%20by%20Repo)
-
-  ![Top Langs by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=donut&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Top%20Languages%20by%20Commit)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages&card_width=500)
 
 </div>
 
