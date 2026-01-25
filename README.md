@@ -62,17 +62,22 @@ I focus on developing robust backends and responsive frontends, always striving 
 
 ## 💻 Most Used Languages
 
+### 📊 Top Languages Overview
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
-### 📈 Top Languages by Repo
-
+### 📈 Top Languages by Repository
 <div align="center">
 
 ![Top Langs by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&theme=tokyonight&hide_border=true&langs_count=10&card_width=500)
+
+</div>
+
+### 💾 Top Languages by Commit
+<div align="center">
 
 ![Top Langs by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=500)
 
