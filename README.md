@@ -68,16 +68,6 @@ I focus on developing robust backends and responsive frontends, always striving 
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yogaaprtma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-### 📈 Language Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
