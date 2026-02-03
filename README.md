@@ -52,7 +52,7 @@ I focus on developing robust backends and responsive frontends, always striving 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   
@@ -73,7 +73,7 @@ I focus on developing robust backends and responsive frontends, always striving 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages&card_width=500)
 
-</div>
+</div> -->
 
 ## 🎯 What I'm Currently Working On
 
