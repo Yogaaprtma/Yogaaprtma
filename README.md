@@ -52,29 +52,6 @@ I focus on developing robust backends and responsive frontends, always striving 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
-<!-- ## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogaaprtma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-  ![Top Langs by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Top%20Languages%20by%20Repo)
-  ![Top Langs by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&layout=donut&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Top%20Languages%20by%20Commit)
-
-</div>
-
-<div align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaaprtma&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages&card_width=500)
-
-</div> -->
-
 ## 🎯 What I'm Currently Working On
 
 - 🔭 Developing web applications with the latest technologies
